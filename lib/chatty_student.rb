@@ -1,3 +1,4 @@
+require_relative "./student.rb"
 class ChattyStudent
   def hello
   greeting = "Hey there! I'm so excited to learn stuff.\n"
